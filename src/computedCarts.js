@@ -1,6 +1,3 @@
-/**
- * Created by 小肥鱼 on 2017/11/24.
- */
 //加法运算
 export function accAdd(arg1, arg2) {
     var r1, r2, m, c;
