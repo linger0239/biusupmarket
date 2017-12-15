@@ -5,7 +5,7 @@ import Cart from "../cart/cart";
 import Settlement from "../settlement/settlement";
 import Mine from "../mine/mine";
 import Market from "../market/market";
-import Tab from "../../components/tab/tab";
+import Tab from "../../components/Tab/tab";
 import GoodsDetail from '../goodsDetail/goodsDetail';
 import './index.less';
 import Affirm from "../affirmAdress/affirm";
